@@ -1,0 +1,17 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 7
+
+## Media
+
+### Title
+panorama_B515C965_BFF7_74AB_41B8_9C6A7BDAC0FB.label = HD SHOT GRAMA
+panorama_B627CB60_BFF4_D4A9_41D5_CF09F9FF5E72.label = NIGH SHOT GRAMA
+panorama_B6304BB9_BFF4_CB9B_41C5_4E538FC416B2.label = NIGHT SHOT
+panorama_B630E9E6_BFF4_B7A9_41CE_89F64A847591.label = PURE SHOT
+panorama_B6312C93_BFF4_CC6F_41E5_12D2E7236EA7.label = HD SHOT
